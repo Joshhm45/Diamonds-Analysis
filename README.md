@@ -3,6 +3,7 @@
 Assignment 01: exploring the structure, data quality and summary statistics of a diamonds dataset with Python and pandas.
 
 Author: Joshua_Vanbawihumhim
+Repository: https://github.com/Joshhm45/Diamonds-Analysis
 
 ## Project description
 
@@ -63,7 +64,8 @@ The script is written in cells, so it is best run in VS Code:
 2. Install the Python extension if you don't have it yet.
 3. Select the `.venv` interpreter (Command Palette, then "Python: Select Interpreter").
 4. Open `diamond_analysis.py` and click **Run Cell** above each `# %%` block, or use **Run All Cells**.
-   The output and the charts appears in the Interactive window.
+
+   The output and the charts appear in the Interactive window.
    
    The file diamonds.csv must be in the same folder as `diamond_analysis.py`.
 
